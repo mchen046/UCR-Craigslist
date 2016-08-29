@@ -1,6 +1,6 @@
-# CS180 
+# CS180
 
-##Software Construction Team Project
+##Software Engineering Team Project
 
 ## Website Link
 [UCR Craigslist Website](http://practicemakesperfect.co.nf "UCR Craigslist")
